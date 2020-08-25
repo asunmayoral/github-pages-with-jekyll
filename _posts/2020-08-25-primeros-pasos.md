@@ -1,7 +1,7 @@
 # Primeros pasos con GitHub
 
 1. Qué es GitHub
-2. Crear proyectos, ficheros y carpetas
+2. Crear repositorios, ficheros y carpetas
 3. Ramas (branches)
 4. Flujos de trabajo en GitHub
 5. Propuestas (issues)
