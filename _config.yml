@@ -3,6 +3,7 @@ author: A.M.Mayoral
 email: asun.mayoral@umh.es
 description: > # this means to ignore newlines until "baseurl:"
   Utilizando GitHub Pages para la colaboración en Ciencia de Datos.
+theme: minima
 
 # social links
 twitter_username: asunmayoral # DO NOT include the @ character, or else the build will fail!
