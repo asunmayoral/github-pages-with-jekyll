@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Colaborando con Datos
 
-I'm glad you are here. I plan to talk about ...
+Este blog está dedicado a ayudar a los estudiantes de estadística, a trabajar de modo colaborativo con GitHub.
